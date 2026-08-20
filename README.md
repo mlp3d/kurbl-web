@@ -22,8 +22,9 @@ erreichbar sein, bevor dort irgendein Formular abgeschlossen werden kann.
 - Die wiederkehrenden Textbausteine und die Gliederung stehen in
   `~/.claude/agents/LEGAL_BASELINE.md`.
 
-## Offen
+## Adresse
 
-Das Repo heißt auf GitHub noch `lastgear-web`. Solange das so ist, lautet die
-öffentliche Adresse `mlp3d.github.io/lastgear-web/...` und nicht wie überall
-dokumentiert `kurbl-web`.
+Das Repo heißt seit dem 20.08.2026 `kurbl-web`, die öffentliche Adresse lautet
+`https://mlp3d.github.io/kurbl-web/`. GitHub leitet den alten Namen weiter,
+aber verlass dich nicht darauf: Store-Formulare und Rechtstexte nennen immer
+die neue Adresse.
